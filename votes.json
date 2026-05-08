@@ -1,1 +1,19 @@
-[]
+[
+  {
+    "id": 1778234664633,
+    "title": "选票",
+    "description": "",
+    "options": [
+      {
+        "text": "1",
+        "votes": 3
+      },
+      {
+        "text": "2",
+        "votes": 4
+      }
+    ],
+    "createdAt": "2026-05-08T10:04:24.633Z",
+    "totalVotes": 7
+  }
+]
